@@ -22,4 +22,4 @@ steps:
     app_location: '/'
     output_location: '.'
     is_static_export: false
-    azure_static_web_apps_api_token: 'AZURE_STATIC_WEB_APPS_API_TOKEN_PROUD_DESERT_00607C30F'
+    azure_static_web_apps_api_token: 'fbdfa6cc0c5a2b57f92434976fa0d4e12049a9f3263d416895e8b136cb25a05002-1a490dc2-f243-42ad-8419-3e79b25804c300f260800607c30f'
